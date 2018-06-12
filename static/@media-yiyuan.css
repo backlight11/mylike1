@@ -1,0 +1,22 @@
+@media screen and (max-width:767px){
+  .yi-box li{
+    width:50%;
+  }
+}
+@media screen and (min-width:768px){
+  .yi-box li{
+    width:50%;
+  }
+}
+@media screen and (min-width:992px){
+  .yi-box li{
+    width:25%;
+  }
+}
+@media screen and (min-width:1100px){
+
+}
+@media screen and (min-width:1200px){
+
+
+}
